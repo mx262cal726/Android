@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 GitRepositoriesView.GitDirectories=C\:\\Users\\kyle\\Documents\\GitHub\\Android\\.git;C\:\\Users\\kyle\\Documents\\GitHub\\Games\\.git;
 RepositorySearchDialogSearchPath=C\:\\Users\\kyle\\Documents\\GitHub
+=======
+GitRepositoriesView.GitDirectories=C\:\\Users\\Phuong\\Documents\\GitHub\\Android\\.git;
+RepositorySearchDialogSearchPath=C\:\\Users\\Phuong\\Documents\\GitHub\\Android
+>>>>>>> 1d98fe042ed39d29127ce0f6f126c093db314461
 eclipse.preferences.version=1

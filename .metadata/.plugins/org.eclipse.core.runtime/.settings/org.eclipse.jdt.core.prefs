@@ -1,2 +1,11 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre1.8.0_20/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.Jar7=C\:/Users/Phuong/Downloads/ECLIPSEFORANDROID/adt-bundle-windows-x86_64-20140702/sdk/extras/android/support/v7/appcompat/libs/android-support-v7-appcompat.jar
+org.eclipse.jdt.core.classpathVariable.Jar7res=C\:/Users/Phuong/Downloads/ECLIPSEFORANDROID/adt-bundle-windows-x86_64-20140702/sdk/extras/android/support/v7/appcompat/res
+org.eclipse.jdt.core.classpathVariable.jar7appcompat=C\:/Users/Phuong/Downloads/ECLIPSEFORANDROID/adt-bundle-windows-x86_64-20140702/sdk/extras/android/support/v7/appcompat
+>>>>>>> 1d98fe042ed39d29127ce0f6f126c093db314461
 org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled

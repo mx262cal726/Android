@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+<<<<<<< HEAD
 	<item value="C:\Users\kyle\Documents\GitHub\Android\.git" key="GitSelectRepositoryPage.lastRepository"/>
+=======
+	<item value="C:\Users\Phuong\Documents\GitHub\Android\.git" key="GitSelectRepositoryPage.lastRepository"/>
+>>>>>>> 1d98fe042ed39d29127ce0f6f126c093db314461
 </section>

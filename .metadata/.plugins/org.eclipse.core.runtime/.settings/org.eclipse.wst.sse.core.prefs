@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 task-tag-projects-already-scanned=CoolPeople
+=======
+task-tag-projects-already-scanned=CoolPeople,android-support-v7-appcompat
+>>>>>>> 1d98fe042ed39d29127ce0f6f126c093db314461

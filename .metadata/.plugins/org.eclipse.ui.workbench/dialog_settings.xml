@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+<<<<<<< HEAD
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="749" key="dialogHeight"/>
 		<item value="1440" key="dialogWidth"/>
+=======
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="-38" key="DIALOG_X_ORIGIN"/>
+		<item value="-13" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="526" key="dialogHeight"/>
+		<item value="1025" key="dialogWidth"/>
+>>>>>>> 1d98fe042ed39d29127ce0f6f126c093db314461
 		<list key="textEntries">
 		</list>
 		<list key="orderedElements">
@@ -13,9 +23,20 @@
 		</list>
 	</section>
 	<section name="ImportExportAction">
+<<<<<<< HEAD
 		<item value="org.eclipse.egit.ui.internal.clone.GitCloneWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
 		</list>
 	</section>
+=======
+		<item value="com.android.ide.eclipse.adt.project.ImportProjectWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="com.android.ide.eclipse.wizards.category"/>
+			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+>>>>>>> 1d98fe042ed39d29127ce0f6f126c093db314461
 </section>
