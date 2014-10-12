@@ -1,0 +1,9 @@
+INDEX VERSION 1.126+C:\Users\Phuong\Documents\GitHub\Android\.metadata\.plugins\org.eclipse.jdt.core
+507306247.index
+2734787106.index
+2298917721.index
+2804169155.index
+886134508.index
+1945609499.index
+3515282563.index
+2328269416.index

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CoolPeople</string>
+    <string name="hello_world">"We're so cool!"</string>
+    <string name="action_settings">Settings</string>
+    <string name="kyle_button">Kyle</string>
+	<string name="phuong_button">Phuong</string>
+    <string name="emerson_button">Emerson</string>
+</resources>
