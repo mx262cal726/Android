@@ -4,9 +4,13 @@
     <string name="app_name">CoolPeople</string>
     <string name="hello_world">"We're so cool!"</string>
     <string name="action_settings">Settings</string>
-    <string name="kyle_button">Kyle</string>
+    <string name="kyle_button">Rouse</string>
     <string name="phuong_button">Phuong</string>
     <string name="emerson_button">Emerson</string>
+    <string name="facebook_app_id">728518583868389</string>
     <string name="title_activity_phuong">PhuongActivity</string>
+    <string name="title_activity_main_activity_rouse">MainActivityRouse</string>
+    <string name="title_activity_rouse_activity_main">RouseActivityMain</string>
+    <string name="title_activity_social">SocialActivity</string>
 
 </resources>
